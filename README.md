@@ -20,6 +20,9 @@ Beta. It has been tested only with **simulated** students (about 70 questions an
 - **Safety:** distress or crisis -> a human hand-off (counselor, main office, 988/911); no invented facts; says "the guide doesn't say" when it doesn't.
 
 ## Try it
+**Easiest (no code): a shared Claude Project.** Follow [`project/SETUP_SHARED_CLAUDE_PROJECT.md`](project/SETUP_SHARED_CLAUDE_PROJECT.md).
+
+**Or build one prompt yourself:**
 1. Build the full prompt:
    ```bash
    python3 scripts/build_prompt.py      # writes dist/full_prompt.md (~400 KB)
@@ -39,6 +42,7 @@ Because the prompt is large, a production version should load the knowledge file
 | `knowledge/colleges_mn.md` | Researched admission requirements for 17 Minnesota colleges (snapshot of Nov 12, 2026) |
 | `knowledge/ap_scores_mn_colleges.*` | Minimum AP scores for credit at Minnesota colleges (parsed from a handout) |
 | `data/courses.json`, `data/courses.csv` | Structured course list (codes, grades, credits, homework hours, prerequisite/guideline/fee text, source page) |
+| `project/` | Ready-to-paste Claude Project instructions and step-by-step sharing guide |
 | `tests/` | Test questions, personas, and the simulated-conversation transcripts from each round |
 | `scripts/` | Prompt builder and the guide-extraction script |
 
