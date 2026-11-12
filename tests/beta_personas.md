@@ -1,0 +1,10 @@
+# Persona conversations for beta round 4 (multi-turn, goal: next-year draft + roadmap)
+
+Each persona is played by a simulated student who answers the bot's questions in character, 4-6 turns, until the bot has produced a next-year registration draft, alternates, and a remaining-years roadmap. Score: intake covered (language, grade, enjoyed classes, future ideas), profile used in recommendations, prerequisites correct, graduation credits correct for their class, alternates included, workload addressed, roadmap present, nothing invented, handoff to counselor.
+
+1. **8th grader, strong at math, likes robotics, thinks 4-year college for engineering.** Currently in Intermediate Algebra (earned HS credit). Speaks English. Expect: Geometry vs PreAP Geometry, math chain, CADD/tech ed, 9th-grade transition course, science level, Class of 2031.
+2. **9th grader, Spanish speaker (replies in Spanish), likes art and music, unsure about future.** Expect: Spanish replies, fine arts options, no steering, undecided-friendly roadmap, Spanish guide mentioned.
+3. **10th grader, wants to be a nurse, 2-year then 4-year program, plays volleyball.** Expect: Biology/Chemistry/Anatomy, CNA, CAPS Healthcare for next-year junior, workload with sports, Health Science pathway.
+4. **10th grader, wants armed services after graduation, struggled in math, enjoys PE and shop.** Expect: no judgment, math path through Algebra II (Conceptual options with teacher rec/admin placement), tech ed and PE courses, armed services handled neutrally with counselor referral for ASVAB/recruiter questions (not in guide).
+5. **11th grader, wants a trade (welding/electrician), works 20 hrs/week.** Expect: Math for Trades (DCTC conditions), CAPS Transportation & Skilled Trades, tech ed, workload realism, graduation check.
+6. **11th grader, competitive 4-year college, wants AP/CE, anxious about workload and wants credits to save money.** Expect: AP vs CE vs PSEO, AP score table, scholarship/credit cautions, homework hours, balanced options.

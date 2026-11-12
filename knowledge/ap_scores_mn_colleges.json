@@ -1,0 +1,1522 @@
+{
+ "AP Physics Mechanics": [
+  {
+   "institution": "College of St. Benedict Saint Joseph",
+   "min_score": 4
+  },
+  {
+   "institution": "Gustavus Adolphus College Saint Peter",
+   "min_score": 4
+  },
+  {
+   "institution": "Hamline University Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Macalester College Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Martin Luther College New Ulm",
+   "min_score": 4
+  },
+  {
+   "institution": "Minneapolis College of Art Minneapolis and Design",
+   "min_score": 4
+  },
+  {
+   "institution": "Saint Mary's University Of Winona Minnesota",
+   "min_score": 4
+  },
+  {
+   "institution": "St. John's University Collegeville",
+   "min_score": 4
+  },
+  {
+   "institution": "St. Olaf College Northfield",
+   "min_score": 4
+  },
+  {
+   "institution": "University of Northwestern Saint - St. Paul Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Alexandria Technical and Community Alexandria College",
+   "min_score": 3
+  },
+  {
+   "institution": "Augsburg University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "Bemidji State University Bemidji",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethel University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Carleton College Northfield",
+   "min_score": 3
+  },
+  {
+   "institution": "Century College Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "College of Saint Catherine: Minneapolis Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "College of St. Scholastica Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia College: Moorhead Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia University St. Paul Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Crown College Saint Bonifacius",
+   "min_score": 3
+  },
+  {
+   "institution": "Dakota County Technical College Rosemount",
+   "min_score": 3
+  },
+  {
+   "institution": "Inver Hills Community College Inver Grove Heights",
+   "min_score": 3
+  },
+  {
+   "institution": "Lake Superior College Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Metropolitan State University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Minneapolis Community and Minneapolis Technical College",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State College - Winona Southeast Technical",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Community Fergus and Falls Technical Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State University Mankato Mankato",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State University Moorhead Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota West Community Pipestone and Technical Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Normandale Community College Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "North Central University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "North Hennepin Community Minneapolis College",
+   "min_score": 3
+  },
+  {
+   "institution": "Northland Community & Technical Thief River College Falls",
+   "min_score": 3
+  },
+  {
+   "institution": "Riverland Community College Austin",
+   "min_score": 3
+  },
+  {
+   "institution": "Rochester Community and Rochester Technical College",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Cloud State University Saint Cloud",
+   "min_score": 3
+  },
+  {
+   "institution": "Southwest Minnesota State Marshall University",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Catherine University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Cloud Technical and Community Saint Cloud College",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Crookston Crookston",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Duluth Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Morris Morris",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Rochester Rochester",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Twin Minneapolis Cities",
+   "min_score": 3
+  },
+  {
+   "institution": "University of St. Thomas Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Winona State University Winona",
+   "min_score": 3
+  }
+ ],
+ "AP Statistics": [
+  {
+   "institution": "Carleton College",
+   "min_score": 4
+  },
+  {
+   "institution": "College of St. Benedict",
+   "min_score": 4
+  },
+  {
+   "institution": "Gustavus Adolphus College",
+   "min_score": 4
+  },
+  {
+   "institution": "Hamline University",
+   "min_score": 4
+  },
+  {
+   "institution": "Macalester College",
+   "min_score": 4
+  },
+  {
+   "institution": "Minneapolis College of Art and",
+   "min_score": 4
+  },
+  {
+   "institution": "St. John's University",
+   "min_score": 4
+  },
+  {
+   "institution": "St. Olaf College",
+   "min_score": 4
+  },
+  {
+   "institution": "University of Minnesota: Twin",
+   "min_score": 4
+  },
+  {
+   "institution": "University of Northwestern -",
+   "min_score": 4
+  },
+  {
+   "institution": "University of St. Thomas",
+   "min_score": 4
+  },
+  {
+   "institution": "Alexandria Technical and",
+   "min_score": 3
+  },
+  {
+   "institution": "Augsburg University",
+   "min_score": 3
+  },
+  {
+   "institution": "Bemidji State University",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethany Lutheran College",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethel University",
+   "min_score": 3
+  },
+  {
+   "institution": "Century College",
+   "min_score": 3
+  },
+  {
+   "institution": "College of Saint Catherine:",
+   "min_score": 3
+  },
+  {
+   "institution": "College of St. Scholastica",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia College: Moorhead3 3 Concordia University St. Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Crown College",
+   "min_score": 3
+  },
+  {
+   "institution": "Dakota County Technical",
+   "min_score": 3
+  },
+  {
+   "institution": "Inver Hills Community College3 3 Lake Superior College",
+   "min_score": 3
+  },
+  {
+   "institution": "Martin Luther College",
+   "min_score": 3
+  },
+  {
+   "institution": "Metropolitan State University3 3 Minneapolis Community and",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State College -",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Community",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State University",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State University",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota West Community",
+   "min_score": 3
+  },
+  {
+   "institution": "Normandale Community",
+   "min_score": 3
+  },
+  {
+   "institution": "North Central University",
+   "min_score": 3
+  },
+  {
+   "institution": "North Hennepin Community",
+   "min_score": 3
+  },
+  {
+   "institution": "Northland Community &",
+   "min_score": 3
+  },
+  {
+   "institution": "Riverland Community College3 3 Rochester Community and",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Cloud State University",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Mary's University Of",
+   "min_score": 3
+  },
+  {
+   "institution": "Southwest Minnesota State",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Catherine University",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Cloud Technical and",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota:",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota:",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota:",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota:",
+   "min_score": 3
+  },
+  {
+   "institution": "Walden University",
+   "min_score": 3
+  },
+  {
+   "institution": "Winona State University",
+   "min_score": 3
+  }
+ ],
+ "AP Computer Science A": [
+  {
+   "institution": "Carleton College Northfield",
+   "min_score": 5
+  },
+  {
+   "institution": "College of Saint Catherine: Minneapolis Minneapolis",
+   "min_score": 4
+  },
+  {
+   "institution": "College of St. Benedict Saint Joseph",
+   "min_score": 4
+  },
+  {
+   "institution": "Hamline University Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Macalester College Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Design Minnesota State Community Fergus and Technical Falls College",
+   "min_score": 4
+  },
+  {
+   "institution": "St. Catherine University Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "St. John's University Collegeville",
+   "min_score": 4
+  },
+  {
+   "institution": "Cities St. Olaf College Northfield",
+   "min_score": 4
+  },
+  {
+   "institution": "St. 4 Alexandria Paul Technical and Community Alexandria College",
+   "min_score": 3
+  },
+  {
+   "institution": "Augsburg University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "Bemidji College State University Bemidji",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethel University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Century College Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia College: Moorhead Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia University St. PaulSaint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Dakota County Technical College Rosemount",
+   "min_score": 3
+  },
+  {
+   "institution": "Lake Superior College Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Metropolitan State University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Minneapolis Community and Minneapolis Technical College",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State College - Southeast Winona Technical",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State University Moorhead Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Normandale Community College Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "North Hennepin Community Minneapolis College",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Cloud State University Saint Cloud",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Mary's University Of Minnesota Winona",
+   "min_score": 3
+  },
+  {
+   "institution": "Southwest Minnesota State Marshall University",
+   "min_score": 3
+  },
+  {
+   "institution": "Technical 3 University College of Minnesota: Crookston Crookston",
+   "min_score": 3
+  },
+  {
+   "institution": "University Technical of Minnesota: Duluth Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "and 3 University Technical of College Minnesota: Morris Morris",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Rochester Rochester",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Twin Minneapolis Cities",
+   "min_score": 3
+  },
+  {
+   "institution": "and 3 University Technical of College Northwestern - Saint St. Paul Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Winona State University Winona",
+   "min_score": 3
+  }
+ ],
+ "AP Calculus BC": [
+  {
+   "institution": "Augsburg University Minneapolis",
+   "min_score": 4
+  },
+  {
+   "institution": "Carleton College Northfield",
+   "min_score": 4
+  },
+  {
+   "institution": "Gustavus Adolphus Saint College Peter",
+   "min_score": 4
+  },
+  {
+   "institution": "Hamline University Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Martin Luther College New Ulm",
+   "min_score": 4
+  },
+  {
+   "institution": "Minneapolis College Minneapolis of Art and Design",
+   "min_score": 4
+  },
+  {
+   "institution": "University of Northwestern Saint Paul - St. Minnesota Paul (MN)",
+   "min_score": 4
+  },
+  {
+   "institution": "University of St. Saint Thomas Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Alexandria Technical Alexandria and Community Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Bemidji State University Bemidji",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethany Lutheran Mankato College",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethel UniversitySaint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Century College Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "College of Saint Minneapolis Catherine: Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "College of St. Benedict Saint Joseph",
+   "min_score": 3
+  },
+  {
+   "institution": "College of St. Scholastica Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia College: Moorhead Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia University Saint St. Paul Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Crown College Saint Bonifacius",
+   "min_score": 3
+  },
+  {
+   "institution": "Dakota County Technical Rosemount College",
+   "min_score": 3
+  },
+  {
+   "institution": "Inver Hills Community Inver Grove College Heights",
+   "min_score": 3
+  },
+  {
+   "institution": "Lake Superior College Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Macalester College Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Metropolitan State Saint University Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Minneapolis Community Minneapolis and Technical Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Winona College - Southeast Minnesota Technical (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Fergus Community Falls and Minnesota Technical College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Mankato University Mankato",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Moorhead University Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota West Pipestone Community and Minnesota Technical College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Normandale Community Minneapolis College",
+   "min_score": 3
+  },
+  {
+   "institution": "North Central University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "North Hennepin Minneapolis Community College",
+   "min_score": 3
+  },
+  {
+   "institution": "Northland Community Thief River & Technical Falls Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Riverland Community Austin College",
+   "min_score": 3
+  },
+  {
+   "institution": "Rochester Community Rochester and Technical Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Cloud State Saint University Cloud",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Mary's University Winona Of Minnesota",
+   "min_score": 3
+  },
+  {
+   "institution": "Southwest Minnesota Marshall State University",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Catherine University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Cloud Technical Saint and Cloud Community Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "St. John's University Collegeville",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Olaf College Northfield",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Crookston Crookston",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Duluth Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Morris Morris",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Rochester Rochester",
+   "min_score": 3
+  },
+  {
+   "institution": "Winona State University Winona",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Minneapolis Twin Cities",
+   "min_score": 3
+  }
+ ],
+ "AP Calculus AB": [
+  {
+   "institution": "Carleton College Northfield",
+   "min_score": 4
+  },
+  {
+   "institution": "College of St. Benedict Saint Joseph",
+   "min_score": 4
+  },
+  {
+   "institution": "Concordia College: Moorhead Moorhead",
+   "min_score": 4
+  },
+  {
+   "institution": "Gustavus Adolphus College Saint Peter",
+   "min_score": 4
+  },
+  {
+   "institution": "Hamline University Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Martin Luther College New Ulm",
+   "min_score": 4
+  },
+  {
+   "institution": "Minneapolis College of Art and Design Minneapolis",
+   "min_score": 4
+  },
+  {
+   "institution": "St. John's University Collegeville",
+   "min_score": 4
+  },
+  {
+   "institution": "St. Olaf College Northfield",
+   "min_score": 4
+  },
+  {
+   "institution": "University of Northwestern - St. Paul Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Alexandria Technical and Community College Alexandria",
+   "min_score": 3
+  },
+  {
+   "institution": "Augsburg University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "Bemidji State University Bemidji",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethany Lutheran College Mankato",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethel University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Century College Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "College of Saint Catherine: Minneapolis Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "College of St. Scholastica Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia University St. Paul Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Crown College Saint Bonifacius",
+   "min_score": 3
+  },
+  {
+   "institution": "Dakota County Technical College Rosemount",
+   "min_score": 3
+  },
+  {
+   "institution": "Inver Hills Community College Inver Grove Heights",
+   "min_score": 3
+  },
+  {
+   "institution": "Lake Superior College Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Macalester College Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Metropolitan State University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Minneapolis Community and Technical College Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State College - Southeast Technical Winona",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Community and Technical College Fergus Falls",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State University Mankato Mankato",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State University Moorhead Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota West Community and Technical College Pipestone",
+   "min_score": 3
+  },
+  {
+   "institution": "Normandale Community College Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "North Central University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "North Hennepin Community College Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "Northland Community & Technical College Thief River Falls",
+   "min_score": 3
+  },
+  {
+   "institution": "Riverland Community College Austin",
+   "min_score": 3
+  },
+  {
+   "institution": "Rochester Community and Technical College Rochester",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Cloud State University Saint Cloud",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Mary's University Of Minnesota Winona",
+   "min_score": 3
+  },
+  {
+   "institution": "Southwest Minnesota State University Marshall",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Catherine University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Cloud Technical and Community College Saint Cloud",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Crookston Crookston",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Duluth Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Morris Morris",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Rochester Rochester",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Twin Cities Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "University of St. Thomas Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Winona State University Winona",
+   "min_score": 3
+  }
+ ],
+ "AP Chemistry": [
+  {
+   "institution": "St. Olaf College Northfield",
+   "min_score": 5
+  },
+  {
+   "institution": "Augsburg University Minneapolis",
+   "min_score": 4
+  },
+  {
+   "institution": "College of Saint Minneapolis Catherine: Minneapolis",
+   "min_score": 4
+  },
+  {
+   "institution": "College of St. Benedict Saint Joseph",
+   "min_score": 4
+  },
+  {
+   "institution": "Gustavus Adolphus Saint College Peter",
+   "min_score": 4
+  },
+  {
+   "institution": "Hamline University Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Macalester College Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Minneapolis College Minneapolis of Art and Design",
+   "min_score": 4
+  },
+  {
+   "institution": "Saint Mary's University Winona Of Minnesota",
+   "min_score": 4
+  },
+  {
+   "institution": "St. Catherine University Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "St. John's University Collegeville",
+   "min_score": 4
+  },
+  {
+   "institution": "University of Minnesota: Minneapolis Twin Cities",
+   "min_score": 4
+  },
+  {
+   "institution": "Alexandria Technical Alexandria and Community Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Bemidji State University Bemidji",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethany Lutheran Mankato College",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethel UniversitySaint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Carleton College Northfield",
+   "min_score": 3
+  },
+  {
+   "institution": "Century College Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "College of St. Scholastica Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia College: Moorhead Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia University Saint St. Paul Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Crown College Saint Bonifacius",
+   "min_score": 3
+  },
+  {
+   "institution": "Dakota County Technical Rosemount College",
+   "min_score": 3
+  },
+  {
+   "institution": "Inver Hills Community Inver Grove College Heights",
+   "min_score": 3
+  },
+  {
+   "institution": "Lake Superior College Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Martin Luther College New Ulm",
+   "min_score": 3
+  },
+  {
+   "institution": "Metropolitan State Saint University Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Minneapolis Community Minneapolis and Technical Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Winona College - Southeast Minnesota Technical (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Fergus Community Falls and Minnesota Technical College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Mankato University Mankato",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Moorhead University Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota West Pipestone Community and Minnesota Technical College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Normandale Community Minneapolis College",
+   "min_score": 3
+  },
+  {
+   "institution": "North Central University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "North Hennepin Minneapolis Community College",
+   "min_score": 3
+  },
+  {
+   "institution": "Northland Community Thief River & Technical Falls Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Riverland Community Austin College",
+   "min_score": 3
+  },
+  {
+   "institution": "Rochester Community Rochester and Technical Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Cloud State Saint University Cloud",
+   "min_score": 3
+  },
+  {
+   "institution": "Southwest Minnesota Marshall State University",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Cloud Technical Saint and Cloud Community Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Crookston Crookston",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Duluth Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Morris Morris",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Rochester Rochester",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Northwestern Saint Paul - St. Minnesota Paul (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "University of St. Saint Thomas Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Walden University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "Winona State University Winona",
+   "min_score": 3
+  }
+ ],
+ "AP Biology": [
+  {
+   "institution": "Augsburg University Minneapolis",
+   "min_score": 5
+  },
+  {
+   "institution": "Macalester College Saint Paul",
+   "min_score": 5
+  },
+  {
+   "institution": "College of St. Benedict Saint Joseph",
+   "min_score": 4
+  },
+  {
+   "institution": "Gustavus Adolphus Saint College Peter",
+   "min_score": 4
+  },
+  {
+   "institution": "Hamline University Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Minneapolis College Minneapolis of Art and Design",
+   "min_score": 4
+  },
+  {
+   "institution": "Saint Mary's University Winona Of Minnesota",
+   "min_score": 4
+  },
+  {
+   "institution": "St. John's University Collegeville",
+   "min_score": 4
+  },
+  {
+   "institution": "St. Olaf College Northfield",
+   "min_score": 4
+  },
+  {
+   "institution": "University of St. Saint Thomas Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Alexandria Technical Alexandria and Community Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Bemidji State University Bemidji",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethany Lutheran Mankato College",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethel UniversitySaint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Carleton College Northfield",
+   "min_score": 3
+  },
+  {
+   "institution": "Century College Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "College of Saint Minneapolis Catherine: Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "College of St. Scholastica Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia College: Moorhead Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia University Saint St. Paul Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Crown College Saint Bonifacius",
+   "min_score": 3
+  },
+  {
+   "institution": "Dakota County Technical Rosemount College",
+   "min_score": 3
+  },
+  {
+   "institution": "Inver Hills Community Inver Grove College Heights",
+   "min_score": 3
+  },
+  {
+   "institution": "Lake Superior College Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Martin Luther College New Ulm",
+   "min_score": 3
+  },
+  {
+   "institution": "Metropolitan State Saint University Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Minneapolis Community Minneapolis and Technical Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Winona College - Southeast Minnesota Technical (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Fergus Community Falls and Minnesota Technical College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Mankato University Mankato",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Moorhead University Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota West Pipestone Community and Minnesota Technical College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Normandale Community Minneapolis College",
+   "min_score": 3
+  },
+  {
+   "institution": "North Central University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "North Hennepin Minneapolis Community College",
+   "min_score": 3
+  },
+  {
+   "institution": "Northland Community Thief River & Technical Falls Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Riverland Community Austin College",
+   "min_score": 3
+  },
+  {
+   "institution": "Rochester Community Rochester and Technical Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Cloud State Saint University Cloud",
+   "min_score": 3
+  },
+  {
+   "institution": "Southwest Minnesota Marshall State University",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Catherine University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Cloud Technical Saint and Cloud Community Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Crookston Crookston",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Duluth Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Morris Morris",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Rochester Rochester",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Minneapolis Twin Cities",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Northwestern Saint Paul - St. Minnesota Paul (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Walden University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "Winona State University Winona",
+   "min_score": 3
+  }
+ ],
+ "AP Psychology": [
+  {
+   "institution": "Carleton College Northfield",
+   "min_score": 4
+  },
+  {
+   "institution": "College of St. Benedict Saint Joseph",
+   "min_score": 4
+  },
+  {
+   "institution": "Gustavus Adolphus Saint College Peter",
+   "min_score": 4
+  },
+  {
+   "institution": "Hamline University Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Macalester College Saint Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Martin Luther College New Ulm",
+   "min_score": 4
+  },
+  {
+   "institution": "Minneapolis College Minneapolis of Art and Design",
+   "min_score": 4
+  },
+  {
+   "institution": "Rochester Community Rochester and Technical Minnesota College (MN)",
+   "min_score": 4
+  },
+  {
+   "institution": "Saint Mary's University Winona Of Minnesota",
+   "min_score": 4
+  },
+  {
+   "institution": "St. John's University Collegeville",
+   "min_score": 4
+  },
+  {
+   "institution": "St. Olaf College Northfield",
+   "min_score": 4
+  },
+  {
+   "institution": "University of Minnesota: Rochester Rochester",
+   "min_score": 4
+  },
+  {
+   "institution": "University of Minnesota: Minneapolis Twin Cities",
+   "min_score": 4
+  },
+  {
+   "institution": "University of St. Saint Thomas Paul",
+   "min_score": 4
+  },
+  {
+   "institution": "Alexandria Technical Alexandria and Community Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Augsburg University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "Bemidji State University Bemidji",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethany Lutheran Mankato College",
+   "min_score": 3
+  },
+  {
+   "institution": "Bethel UniversitySaint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Century College Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "College of Saint Minneapolis Catherine: Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "College of St. Scholastica Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia College: Moorhead Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Concordia University Saint St. Paul Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Crown College Saint Bonifacius",
+   "min_score": 3
+  },
+  {
+   "institution": "Dakota County Technical Rosemount College",
+   "min_score": 3
+  },
+  {
+   "institution": "Inver Hills Community Inver Grove College Heights",
+   "min_score": 3
+  },
+  {
+   "institution": "Lake Superior College Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "Metropolitan State Saint University Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "Minneapolis Community Minneapolis and Technical Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Winona College - Southeast Minnesota Technical (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Fergus Community Falls and Minnesota Technical College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Mankato University Mankato",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota State Moorhead University Moorhead",
+   "min_score": 3
+  },
+  {
+   "institution": "Minnesota West Pipestone Community and Minnesota Technical College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Normandale Community Minneapolis College",
+   "min_score": 3
+  },
+  {
+   "institution": "North Central University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "North Hennepin Minneapolis Community College",
+   "min_score": 3
+  },
+  {
+   "institution": "Northland Community Thief River & Technical Falls Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Riverland Community Austin College",
+   "min_score": 3
+  },
+  {
+   "institution": "Saint Cloud State Saint University Cloud",
+   "min_score": 3
+  },
+  {
+   "institution": "Southwest Minnesota Marshall State University",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Catherine University Saint Paul",
+   "min_score": 3
+  },
+  {
+   "institution": "St. Cloud Technical Saint and Cloud Community Minnesota College (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Crookston Crookston",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Duluth Duluth",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Minnesota: Morris Morris",
+   "min_score": 3
+  },
+  {
+   "institution": "University of Northwestern Saint Paul - St. Minnesota Paul (MN)",
+   "min_score": 3
+  },
+  {
+   "institution": "Walden University Minneapolis",
+   "min_score": 3
+  },
+  {
+   "institution": "Winona State University Winona",
+   "min_score": 3
+  }
+ ]
+}
